@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Raw IMDB data (large, downloaded at runtime)
+aclImdb/
+aclImdb_v1.tar.gz
+
+# Generated datasets (large CSV files)
+IMDB_Dataset.csv
+IMDB_Preprocessed.csv
+
+# Old dataset
+student_dropout_dataset_v3.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
