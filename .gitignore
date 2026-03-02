@@ -9,9 +9,13 @@ __pycache__/
 aclImdb/
 aclImdb_v1.tar.gz
 
-# Generated datasets (large CSV files)
+# Generated datasets
 IMDB_Dataset.csv
 IMDB_Preprocessed.csv
+IMDB_Vectorized_Sample.csv
+
+# Submissions
+*.zip
 
 # Old dataset
 student_dropout_dataset_v3.csv
